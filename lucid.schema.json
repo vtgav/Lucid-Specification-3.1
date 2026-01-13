@@ -508,7 +508,8 @@
       }
     },
     "required": [
-      "p"
+      "p",
+      "cVer"
     ],
     "additionalProperties": false
   },
